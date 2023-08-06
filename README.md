@@ -1,2 +1,2 @@
 # patrix
-## live link => file:///D:/patrix/index.html
+## live link => https://marjahantammi.github.io/patrix/
